@@ -10,4 +10,7 @@ contract demo{
     function get() public view returns (uint){
                          return number;
     }
+     
+    
+
 }
